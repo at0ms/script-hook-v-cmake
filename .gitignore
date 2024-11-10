@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio folders
+.vs
+.vscode
+
+# Build folders
+build
+install
+out
+
+# Allowed
+!ScriptHookV.lib
