@@ -1,2 +1,2 @@
 # Script-Hook V CMake
-Script Hook V SDK with CMake support
+CMake project with Script Hook V (Using legacy sdk)
